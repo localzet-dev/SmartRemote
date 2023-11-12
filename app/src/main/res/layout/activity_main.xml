@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Корневой элемент макета - ConstraintLayout -->
+<?xml version="1.0" encoding="utf-8"?><!-- Корневой элемент макета - ConstraintLayout -->
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
@@ -75,8 +74,7 @@
             android:layout_height="300dp"
             android:layout_centerInParent="true"
             android:background="@drawable/joystick"
-            android:backgroundTint="@color/joystickBackground"
-            />
+            android:backgroundTint="@color/joystickBackground" />
 
         <!-- Вид джойстика -->
         <View

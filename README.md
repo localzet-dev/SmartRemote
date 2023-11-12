@@ -29,9 +29,9 @@
 
 ## Скриншоты
 <p>
-  <img src="/.github/screenshots/1.jpg" width="200" />
-  <img src="/.github/screenshots/2.jpg" width="200" /> 
-  <img src="/.github/screenshots/3.jpg" width="200" />
+  <img src="/.github/screenshots/1.jpg" width="201" />
+  <img src="/.github/screenshots/2.jpg" width="201" /> 
+  <img src="/.github/screenshots/3.jpg" width="201" />
 </p>
 
 ## Авторы

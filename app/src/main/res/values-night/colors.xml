@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6200EE</color>
+    <color name="colorPrimaryDark">#FF6200EE</color>
+
+    <color name="colorSurface">#121212</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="colorOnPrimary">#000000</color>
+
+    <color name="dividerColor">#616161</color>
+
+    <color name="joystickBackground">#9000</color>
+</resources>

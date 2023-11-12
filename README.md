@@ -3,6 +3,7 @@
 ## Содержание
 - [Требования](#Требования)
 - [Зависимости](#Зависимости)
+- [Скриншоты](#Скриншоты)
 - [Авторы](#Авторы)
 - [Лицензия](#Лицензия)
 
@@ -25,6 +26,13 @@
 - **JUnit** - Фреймворк для написания повторно используемых тестов. Версия: `4.13.2`
 - **AndroidX Test JUnit** - Библиотека для интеграции JUnit4 с Android Jetpack. Версия: `1.1.5`
 - **Espresso Core** - Библиотека для написания UI-тестов. Версия: `3.5.1`
+
+## Скриншоты
+<p>
+  <img src="/.github/screenshots/1.jpg" width="200" />
+  <img src="/.github/screenshots/2.jpg" width="200" /> 
+  <img src="/.github/screenshots/3.jpg" width="200" />
+</p>
 
 ## Авторы
 - **Ivan Zorin** [(@localzet)](https://github.com/localzet) - *Software Architect*

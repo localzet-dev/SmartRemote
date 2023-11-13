@@ -4,6 +4,7 @@
 - [Требования](#Требования)
 - [Зависимости](#Зависимости)
 - [Скриншоты](#Скриншоты)
+- [Методичка](#Методичка)
 - [Авторы](#Авторы)
 - [Лицензия](#Лицензия)
 
@@ -33,8 +34,8 @@
   <img src="/.github/screenshots/2.jpg" width="201" /> 
   <img src="/.github/screenshots/3.jpg" width="201" />
 </p>
-## Методичка
 
+## Методичка
 https://docs.google.com/document/d/1SCEQeBrSbJ0UNr9BmO97gXSYRJLJwgEZ/edit?usp=sharing&ouid=105024812102487323017&rtpof=true&sd=true
 
 ## Авторы

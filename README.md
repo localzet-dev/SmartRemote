@@ -35,6 +35,7 @@
 </p>
 ## Методичка
 https://docs.google.com/document/d/1SCEQeBrSbJ0UNr9BmO97gXSYRJLJwgEZ/edit?usp=sharing&ouid=105024812102487323017&rtpof=true&sd=true
+
 ## Авторы
 - **Ivan Zorin** [(@localzet)](https://github.com/localzet) - *Software Architect*
 - **Artyom Rumyancev** [(@GreatSpir)](https://github.com/GreatSpir) - *Android Developer*
